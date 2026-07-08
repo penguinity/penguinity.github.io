@@ -1,7 +1,8 @@
 # Portfolio: AI Community Coordination & Operations
 
 > **Portfolio Navigation:**  
-> * **AI community RPA management:** [AI-Driven Community Governance (Below)](#project-overview-ai-driven-automation-pipeline)  
+> * **Portfolio Summary:** [Overview of Portfolio](./README.md)
+> * **AI community RPA management (Here):** [AI-Driven Community Governance](./rpa-community-governance.md)  
 > * **Community standards guide:** [Onboarding & Training Playbook](./training-playbook.md)  
 > * **AI-Community use cases:** [AI in Communities Case Studies](./ai-ops-case-studies.md)
 
