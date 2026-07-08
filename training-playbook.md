@@ -59,8 +59,8 @@ Below is a live production look at the automated webhook notification pushed dir
 * **Reducing Friction:** To empower overnight or early-shift moderators to make decisions independently, all unique or precedent-setting scenarios are logged into a centralized internal log. 
 * **Autonomy Support:** If an overnight operator encounters an ambiguous situation, they cross-reference past scenario documentation instead of stalling the decision queue until the seasoned moderators are online.
 
-#### Training Queue/Knowledgebase Example:
-Below is a live look at part of the asynchronous knowledgebase always available to operators.
+#### Training Queue/Knowledge Base Example:
+Below is a live look at part of the asynchronous knowledge base always available to operators.
 
 <img width="1017" height="831" alt="image" src="https://github.com/user-attachments/assets/4db60d01-6c6d-43d2-a102-3684d51cc021" />
 
