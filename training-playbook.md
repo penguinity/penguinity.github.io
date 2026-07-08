@@ -59,6 +59,10 @@ Below is a live production look at the automated webhook notification pushed dir
 * **Reducing Friction:** To empower overnight or early-shift moderators to make decisions independently, all unique or precedent-setting scenarios are logged into a centralized internal log. 
 * **Autonomy Support:** If an overnight operator encounters an ambiguous situation, they cross-reference past scenario documentation instead of stalling the decision queue until the seasoned moderators are online.
 
+#### Training Queue/Knowledgebase Example:
+Below is a live production look at the automated webhook notification pushed directly to the moderator team's internal Discord desk, tracking metrics across a mega-scale community of 8.2M+ members.
+<img width="1038" height="774" alt="image" src="https://github.com/user-attachments/assets/fa89edd8-7500-45ef-a1d8-87f9eded6d4b" />
+
 ---
 
 ## Section 3: Proactive Community Engagement Protocols
