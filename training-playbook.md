@@ -80,8 +80,10 @@ Coaching a team to interact constructively with the community ensures that membe
 ### 2. Spotting and Cultivating Organic Community Champions
 The long-term goal of any community program is to minimize the central coordination burden by turning active users into community advocates.
 
-* **Identify the Explainer:** Teams are trained to look for regular members who frequently leave high-quality, helpful, or highly collaborative comments on other peers' posts.
-* **The Invitation Protocol:** When a repeating constructive pattern is spotted, a community ambassador/moderator reaches out directly to express appreciation and offer formal support. This process creates a natural recruitment pipeline for future ambassadors and formal moderators.
+* **Identify Community Champions:** Teams are trained to look for regular members who frequently leave high-quality, helpful, or highly collaborative comments on other peers' posts.
+* **Invitation Protocol:** When a repeating constructive pattern is spotted, a community ambassador/moderator reaches out directly to express appreciation and offer formal support. This process creates a natural recruitment pipeline for future ambassadors and formal moderators.
+
+<img width="1237" height="739" alt="image" src="https://github.com/user-attachments/assets/4682b37b-5805-4db2-a68e-0d3502a109ee" />
 
 ---
 
