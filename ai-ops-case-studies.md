@@ -21,6 +21,10 @@ This repository of operational case studies details my real-world experience man
 #### Engagement Scale Examples:
 Below is a look at the front-end user experience where the pipeline programmatically aggregates, flairs, and displays trending discussions across threads containing hundreds of highly active user interactions simultaneously.
 
+<img width="840" height="362" alt="image" src="https://github.com/user-attachments/assets/fba1e5c2-a74b-46a2-9003-5546a23f0dc4" /><img width="836" height="379" alt="image" src="https://github.com/user-attachments/assets/b2c7c5ce-9c6a-4ba7-bcac-deb23b1d7f28" />
+
+
+
 ---
 
 ### Case Study B: Automated Duplication Triage vs. Algorithmic Over-Filtering
