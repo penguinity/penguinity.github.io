@@ -4,6 +4,13 @@
 
 ---
 
+> **Portfolio Navigation:**  
+> * **AI community RPA management:** [AI-Driven Community Governance (Below)](#project-overview-ai-driven-automation-pipeline)  
+> * **Community standards guide:** [Onboarding & Training Playbook](./training-playbook.md)  
+> * **AI-Community use cases:** [AI in Communities Case Studies](./ai-ops-case-studies.md)
+
+---
+
 ## Executive Summary
 Deploying AI models is only half the battle; the true challenge lies in scaling operational infrastructure to handle human engagement, filter noise, and maintain system integrity. 
 
