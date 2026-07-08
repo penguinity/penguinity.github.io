@@ -59,6 +59,8 @@ Below is a live production look at the automated webhook notification pushed dir
 * **Reducing Friction:** To empower overnight or early-shift moderators to make decisions independently, all unique or precedent-setting scenarios are logged into a centralized internal log. 
 * **Autonomy Support:** If an overnight operator encounters an ambiguous situation, they cross-reference past scenario documentation instead of stalling the decision queue until the seasoned moderators are online.
 
+---
+
 ## Section 3: Proactive Community Engagement Protocols
 
 Effective operators do not simply sit back and act as reactive gatekeepers; they double as community ambassadors who facilitate constructive engagement, drive psychological safety, and guide peer conversations.
