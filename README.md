@@ -26,6 +26,9 @@ By embedding the Gemini Flash API directly into a Selenium-driven workflow, this
 The system operates on an active 15-minute batch execution cycle. Rather than simply scraping data, the pipeline actively observes the live environment, performing real-time Document Object Model (DOM) navigation to evaluate intake items. 
 * **The Business Impact:** Hours of manual, repetitive triage are replaced by a standardized, programmatic flow, freeing up human bandwidth for high-level governance.
 
+<img width="623" height="106" alt="image" src="https://github.com/user-attachments/assets/230cb934-cf60-428c-88c8-5c4ccb10eafc" />
+
+
 #### 2. Localized Logic + AI-Assisted Decision Making
 To maximize operational efficiency, the framework combines strict local guardrails with fluid AI classification:
 * **Localized Context Database:** The system references a local database of structured rules (e.g., flagging contextless external links) to execute immediate, deterministic moderation actions.
