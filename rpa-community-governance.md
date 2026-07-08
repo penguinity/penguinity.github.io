@@ -27,9 +27,6 @@ By embedding the Gemini Flash API directly into a Selenium-driven workflow, this
 The system operates on an active 15-minute batch execution cycle. Rather than simply scraping data, the pipeline actively observes the live environment, performing real-time Document Object Model (DOM) navigation to evaluate intake items. 
 * **The Business Impact:** Hours of manual, repetitive triage are replaced by a standardized, programmatic flow, freeing up human bandwidth for high-level governance.
 
-<img width="623" height="106" alt="image" src="https://github.com/user-attachments/assets/230cb934-cf60-428c-88c8-5c4ccb10eafc" />
-
-
 #### 2. Localized Logic + AI-Assisted Decision Making
 To maximize operational efficiency, the framework combines strict local guardrails with fluid AI classification:
 * **Localized Context Database:** The system references a local database of structured rules (e.g., flagging contextless external links) to execute immediate, deterministic moderation actions.
@@ -39,6 +36,9 @@ To maximize operational efficiency, the framework combines strict local guardrai
 In high-volume community management, system uptime is critical.
 * **Self-Healing Infrastructure:** Built with strict programmatic guardrails in Python, the pipeline features automated monitor and restart protocols. If it encounters server instability or API rate limits, the system self-heals, pausing and logging errors before resuming its cycle seamlessly.
 * **The Business Impact:** This architecture ensures that community operations remain consistent, secure, and resilient 24/7, without requiring continuous manual oversight.
+
+<img width="623" height="106" alt="image" src="https://github.com/user-attachments/assets/230cb934-cf60-428c-88c8-5c4ccb10eafc" /><img width="1154" height="329" alt="image" src="https://github.com/user-attachments/assets/59159d8b-fe44-4271-b8af-3d430f0a2187" /><img width="1078" height="669" alt="image" src="https://github.com/user-attachments/assets/00bca53b-37d8-487c-9d41-2aec019227ca" />
+
 
 ---
 
