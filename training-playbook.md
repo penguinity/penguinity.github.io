@@ -4,6 +4,13 @@
 
 ---
 
+> **Portfolio Navigation:**  
+> * **AI community RPA management:** [AI-Driven Community Governance (Below)](#project-overview-ai-driven-automation-pipeline)  
+> * **Community standards guide:** [Onboarding & Training Playbook](./training-playbook.md)  
+> * **AI-Community use cases:** [AI in Communities Case Studies](./ai-ops-case-studies.md)
+
+---
+
 ## Executive Overview
 Scaling an enterprise community requires shifting from central coordination to an activated, peer-led network. This playbook is derived from real-world, asynchronous coaching interactions I led and documented while onboarding a distributed team of volunteer operations moderators. It serves as an operational blueprint for establishing community guardrails, managing user escalation paths, ensuring 24/7 global coverage, and driving proactive peer engagement.
 
