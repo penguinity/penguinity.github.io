@@ -42,17 +42,13 @@ In high-volume community management, system uptime is critical.
 
 ---
 
-### 🎥 System Execution Demo
+### 🎥 System Execution Walkthrough
 
-Below is the live execution video of the production pipeline.
-
+To see the automation pipeline executing part of a live 15-minute batch cycle, running real-time DOM navigation, and routing exceptions under programmatic guardrails, view the production capture below:
 * **For a Quick Technical Glance:** You can view the first few seconds, which shows the real-time DOM navigation and batch processing.
 * **For the Full Context:** Watch the complete walkthrough below to see how the system handles localized logic, exception routing, and API error recovery under strict programmatic guardrails.
 
-
-
-https://github.com/user-attachments/assets/927d4cf5-e46c-493b-a42f-b02e1cbba566
-
+👉 **[Watch the Live Video Demonstration](./0611(1).mp4)**
 
 
 > 💡 **AI Fluency Note for Previewers:** While this video highlights the backend engineering of an automated triage pipeline, my ultimate goal as an AI Community Coordinator is to translate these exact types of complex technical efficiencies into accessible, everyday use cases for non-technical business units, building trust and fluency in these tools to force-multiply existing workflows.
