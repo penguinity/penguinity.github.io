@@ -38,7 +38,12 @@ Below is a look at the front-end user experience where the pipeline programmatic
 ### Case Study B: Automated Duplication Triage vs. Algorithmic Over-Filtering
 * **The Challenge:** High-volume communities are frequently flooded with repetitive threads, identical news links, and duplicate user queries. While static automation can easily flag and remove exact matches, it struggles with context—often over-filtering and deleting legitimate, high-value posts that merely touch upon trending topics, leading to user frustration.
 * **The Solution:** I engineered a multi-layered AI triage protocol. The automated pipeline executes a deterministic check to immediately suppress exact content duplicates and repetitive spam. However, if a thread contains nuanced discussion or breaking industry news that borders on a restricted topic, the system flags it for semantic evaluation rather than blind removal. 
-* **The Impact:** This balances continuous automated coverage with intelligent discretion. By letting AI autonomously clear out the noise of 90% of repetitive content, human operators are spared from exhausting, low-value moderation cycles. This ensures the community feed remains clean and dynamically updated 24/7, while preserving human intervention strictly for edge cases that require real judgment.
+* **The Impact:** This balances continuous automated coverage with intelligent discretion. By letting AI autonomously clear out the noise of 90% of repetitive content, human operators are spared from exhausting, low-value moderation cycles. This ensures the community feed remains clean and dynamically updated 24/7, while preserving human intervention strictly for edge cases that require real judgment.<br><br>
+
+<img width="1250" height="606" alt="image" src="https://github.com/user-attachments/assets/fe693a70-50ac-4a1d-9d10-788154560aee" />
+<br><br>
+
+Note: *The screenshot above captures part of the automated pipeline in action. The bot-icon indicators (right) demonstrate that the community triage system is autonomously identifying and suppressing low-value noise in real-time, effectively shielding the community without requiring manual human oversight. In this specific event, the removals were for new accounts likely to be future disruptive, headless agents that were flagged for their account creation date (age <5 days).*<br><br>
 
 ---
 
