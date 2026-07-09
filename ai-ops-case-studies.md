@@ -15,7 +15,7 @@
 ## Executive Summary
 Deploying AI models is only half the battle; the true challenge lies in scaling operational infrastructure to handle human engagement, filter noise, and maintain system integrity. 
 
-This repository of operational case studies details my real-world experience managing and optimizing governance across distributed networks totaling over 9 million members. These projects serve as a direct blueprint for enterprise adoption strategy. They demonstrate how automated workflows, rigorous root-cause tuning, and structured human-in-the-loop training can force-multiply human capabilities, drive active participation, and protect an evolving digital ecosystem.
+This repository of operational case studies details my real-world experience managing and optimizing governance across distributed networks totaling over 10 million members. These projects serve as a direct blueprint for enterprise adoption strategy. They demonstrate how automated workflows, rigorous root-cause tuning, and structured human-in-the-loop training can force-multiply human capabilities, drive active participation, and protect an evolving digital ecosystem.
 
 ---
 
