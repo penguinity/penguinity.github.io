@@ -81,6 +81,6 @@ Note: *To eliminate ambiguity and ensure consistent enforcement across 8M+ membe
 
 <img width="495" height="263" alt="image" src="https://github.com/user-attachments/assets/2bf7103b-9db5-46b8-9e94-83718d3ceb52" /><br><br>
 
-Note: *Above is a view of the structured database used to transform raw actions into training data. This enables transition from blind filtering to data-driven refinement, directly reducing the volume of manual appeals by identifying where automated rules require more nuance in a highly sensitive cancer support community.*
+Note: *Above is a view of the structured database used to transform raw actions into training data. This enables transition from blind filtering to data-driven refinement, directly reducing the volume of manual appeals by identifying where automated rules require more nuance in a highly sensitive cancer support community. Through hyper-strict programmatic guard-railing and human oversight, absolutely no PII is stored within this database.*
 
 ---
