@@ -1,4 +1,4 @@
-# Portfolio Feature: Community Leadership & Onboarding Playbook
+# Portfolio: Community Leadership & Onboarding Playbook
 
 **Target Alignment:** Program Structure, Communities of Practice (CoP) Operations, and distributed participant alignment.
 
