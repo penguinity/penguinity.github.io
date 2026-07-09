@@ -34,7 +34,7 @@ Note: *Representative analytics dashboard from a single, front-page community de
 
 ## Driving Safe AI Adoption in Thriving Communities
 
-For adoption to stick, organizational behavior must pivot from viewing AI as a specialized engineering tool to utilizing it as a safe, everyday workplace companion. True fluency is built by establishing clear operational boundaries:
+For AI adoption to stick, community behavior must pivot from viewing AI as a specialized engineering tool to utilizing it as a safe, everyday companion. True fluency is built by establishing clear operational boundaries:
 
 ### 1. Modeling Proactive & Value-Driven Usage
 Scale adoption by demonstrating immediate utility. Communities thrive when members see AI actively improving their workflows. This includes using enterprise-approved LLMs for:
