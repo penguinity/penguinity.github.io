@@ -25,7 +25,7 @@ By embedding the Gemini Flash API directly into a Selenium-driven workflow, this
 
 #### 1. Automated Triaging & Real-Time Queue Management
 The system operates on an active 15-minute batch execution cycle. Rather than simply scraping data, the pipeline actively observes the live environment, performing real-time Document Object Model (DOM) navigation to evaluate intake items. 
-* **The Business Impact:** Hours of manual, repetitive triage are replaced by a standardized, programmatic flow, freeing up human bandwidth for high-level governance.
+* **Impact:** Hours of manual, repetitive triage are replaced by a standardized, programmatic flow, freeing up human bandwidth for high-level governance.
 
 #### 2. Localized Logic + AI-Assisted Decision Making
 To maximize operational efficiency, the framework combines strict local guardrails with fluid AI classification:
@@ -35,7 +35,7 @@ To maximize operational efficiency, the framework combines strict local guardrai
 #### 3. Fault Tolerance & Operational Resilience
 In high-volume community management, system uptime is critical.
 * **Self-Healing Infrastructure:** Built with strict programmatic guardrails in Python, the pipeline features automated monitor and restart protocols. If it encounters server instability or API rate limits, the system self-heals, pausing and logging errors before resuming its cycle seamlessly.
-* **The Business Impact:** This architecture ensures that community operations remain consistent, secure, and resilient 24/7, without requiring continuous manual oversight.
+* **The Impact:** This architecture ensures that community operations remain consistent, secure, and resilient 24/7, without requiring continuous manual oversight.
 
 <img width="741" height="155" alt="image" src="https://github.com/user-attachments/assets/230cb934-cf60-428c-88c8-5c4ccb10eafc" /><img width="741" height="326" alt="image" src="https://github.com/user-attachments/assets/2e175840-4b5a-4df8-9efc-2dd4b23e16b3" />
 
@@ -52,4 +52,4 @@ To see the automation pipeline executing part of a live 15-minute batch cycle, r
 👉 **[Watch the Live Video Demonstration](./0611(1).mp4)**
 
 
-> 💡 **AI Fluency Note for Previewers:** While this video highlights the backend engineering of an automated triage pipeline, my ultimate goal as a community coordinator is to translate these exact types of complex technical efficiencies into accessible, everyday use cases for non-technical business units, building trust and fluency in these tools to force-multiply existing workflows.
+> 💡 **AI Fluency Note for Previewers:** While this video highlights the backend engineering of an automated triage pipeline, my ultimate goal as a community coordinator is to translate these exact types of complex technical efficiencies into accessible, everyday use cases for non-technical community members, building trust and fluency in these tools to force-multiply existing workflows.
