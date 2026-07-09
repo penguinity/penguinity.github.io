@@ -1,5 +1,4 @@
 ## Portfolio Close & Summary
-My portfolio demonstrates the intersection of **systems engineering, safe AI implementation into communities of scale, operations governance, community management, and human capital development**. My approach treats community infrastructure not as a series of isolated social tasks, but as a complex, data-driven environment that requires rigorous oversight, technical scaling, and psychological safety for all involved.
 
 > **Portfolio Navigation:**  
 > * **Portfolio Summary:** [Overview of Portfolio](./README.md)
@@ -7,6 +6,8 @@ My portfolio demonstrates the intersection of **systems engineering, safe AI imp
 > * **Community standards guide:** [Onboarding & Training Playbook](./training-playbook.md)  
 > * **AI-Community use cases:** [AI in Communities Case Studies](./ai-ops-case-studies.md)
 > * **Portfolio Summary & Operational Scope (Here):** [Community Scope & Closure](./scale-and-scope.md)
+
+My portfolio demonstrates the intersection of **systems engineering, safe AI implementation into communities of scale, operations governance, community management, and human capital development**. My approach treats community infrastructure not as a series of isolated social tasks, but as a complex, data-driven environment that requires rigorous oversight, technical scaling, and psychological safety for all involved.
 
 ---
 
