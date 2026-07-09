@@ -109,7 +109,7 @@ Moderators and community ambassadors must look out for and correct the following
   * *Action:* Remind the user that community channels are for peer-to-peer engagement, not text generation overflow.
 * **AI Hallucinations as Truth:** Users presenting AI-generated answers to technical, corporate, or policy questions as absolute factual truth without checking primary internal sources.
   * *Action:* Gently flag the unverified information, point the user to the official documentation source, and maintain a high standard of data integrity.
-* **Data Leakage & Privacy Violations:** Sharing sensitive personal data, punlicly identifying information (phone numbers, addresses, full names, etc), or proprietary logic with community members and AI models.
+* **Data Leakage & Privacy Violations:** Sharing sensitive personal data, publicly identifying information (phone numbers, addresses, full names, etc), or proprietary logic with community members and AI models.
   * *Action:* Immediately remove the post, escalate the issue, and retrain the user on safety.
 
 ---
