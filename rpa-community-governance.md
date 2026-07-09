@@ -37,9 +37,9 @@ In high-volume community management, system uptime is critical.
 * **Self-Healing Infrastructure:** Built with strict programmatic guardrails in Python, the pipeline features automated monitor and restart protocols. If it encounters server instability or API rate limits, the system self-heals, pausing and logging errors before resuming its cycle seamlessly.
 * **The Business Impact:** This architecture ensures that community operations remain consistent, secure, and resilient 24/7, without requiring continuous manual oversight.
 
-<img width="623" height="106" alt="image" src="https://github.com/user-attachments/assets/230cb934-cf60-428c-88c8-5c4ccb10eafc" /><img width="741" height="326" alt="image" src="https://github.com/user-attachments/assets/2e175840-4b5a-4df8-9efc-2dd4b23e16b3" />
+<img width="741" height="155" alt="image" src="https://github.com/user-attachments/assets/230cb934-cf60-428c-88c8-5c4ccb10eafc" /><img width="741" height="326" alt="image" src="https://github.com/user-attachments/assets/2e175840-4b5a-4df8-9efc-2dd4b23e16b3" />
 
-
+Note: *The images above provide a representative view of the production platform, including portions of the underlying codebase and live server-side processing. The AI system automates repetitive, low-risk operational tasks while preserving human oversight through configurable guardrails and escalation pathways.*
 
 ---
 
