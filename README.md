@@ -10,7 +10,7 @@
 
 ## Vision: AI Usage in Modern Communities
 
-Over the past year, I've designed and implemented AI-assisted operational systems supporting public-facing online communities totaling over 10 million members spanning many topics such as: fashion, gaming, television, paranormal, and cancer support. Weekly engagement ranges from 20,000 interactions in a single community, to over 2 million individual community visits.
+Over the last few years, I've designed and implemented AI-assisted operational systems supporting public-facing online communities totaling over 10 million members spanning many topics such as: fashion, gaming, television, paranormal, and cancer support. Weekly engagement ranges from 20,000 interactions in a single community, to over 2 million individual community visits.
 
 This portfolio demonstrates how I've combined AI, automation, governance, documentation, and community leadership to improve operational efficiency while keeping humans at the center of decision-making.
 
