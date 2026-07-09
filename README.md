@@ -25,7 +25,7 @@ AI is not a replacement for human community, interaction, or collaboration; it i
 Note: *These metrics represent unique weekly community views and new topics shared, not subscriber counts. These images are included to illustrate the scale of community engagement and the operational environment in which these AI and governance systems were implemented.*
 
 
-<img width="1101" height="397" alt="image" src="https://github.com/user-attachments/assets/cd304ece-6c72-4c05-abbc-74d07db00319" />
+<img width="787" height="297" alt="image" src="https://github.com/user-attachments/assets/cd304ece-6c72-4c05-abbc-74d07db00319" />
 
 Note: *Representative analytics dashboard from a single, front-page community demonstrating the scale of content, engagement, and moderation operations.*
 
