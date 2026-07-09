@@ -19,13 +19,10 @@ AI is not a replacement for human community, interaction, or collaboration; it i
 2. **Distilling Insights from Noise:** Transforming sprawling, multi-channel conversations into concise, value-driven community narratives.
 3. **Protecting Psychological Safety:** Rapidly mitigating risks, policy exceptions, and friction points 24/7 to maintain a trusted environment for peer-to-peer learning and growth.
 
-### Examples of weekly engagement:
+#### Examples of weekly engagement:
 <img width="359" height="271" alt="image" src="https://github.com/user-attachments/assets/6a04b572-c0e0-497f-8422-d27ed5b54e65" /><img width="339" height="272" alt="image" src="https://github.com/user-attachments/assets/e785ac9a-7e1a-483a-80d0-052cbc757422" /><img width="342" height="268" alt="image" src="https://github.com/user-attachments/assets/abdde6f8-3391-4f0d-82c5-b7cdcf328666" /><img width="346" height="280" alt="image" src="https://github.com/user-attachments/assets/01392963-ad05-404c-9de7-0462ecb584f7" />
 
-
-
-
-
+Note: *These metrics represent unique weekly community views, not subscriber counts. They are included to illustrate the scale of community engagement and the operational environment in which these AI and governance systems were implemented.*
 
 ---
 
