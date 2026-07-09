@@ -8,7 +8,7 @@
 
 ---
 
-## Vision: AI Usage in Modern Communities
+## AI Usage in Modern Communities
 
 Over the last few years, I've designed and implemented AI-assisted operational systems supporting public-facing online communities totaling over 10 million members. The communities I manage encompass many popular topics such as: fashion, gaming, television, paranormal discussion, and cancer support. Weekly engagement ranges from 20,000 interactions in a single community, to over 2 million individual community visits.
 
@@ -32,7 +32,7 @@ Note: *Representative analytics dashboard from a single, front-page community de
 
 ---
 
-## Core Framework: Driving Safe AI Adoption in Thriving Communities
+## Driving Safe AI Adoption in Thriving Communities
 
 For adoption to stick, organizational behavior must pivot from viewing AI as a specialized engineering tool to utilizing it as a safe, everyday workplace companion. True fluency is built by establishing clear operational boundaries:
 
@@ -50,7 +50,7 @@ Scaling AI adoption requires proactive mitigation frameworks. In an enterprise s
 
 ---
 
-## Operational Proof: Impact-Driven Community Adaptation Featured in this Portfolio
+## Impact-Driven Community Adaptation Featured in this Portfolio
 
 This portfolio serves as a concrete, real-world blueprint for how I bridge the gap between backend AI technology and high-impact human governance across distributed networks totaling **10+ million members**:
 
