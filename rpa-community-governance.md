@@ -52,4 +52,4 @@ To see the automation pipeline executing part of a live 15-minute batch cycle, r
 👉 **[Watch the Live Video Demonstration](./0611(1).mp4)**
 
 
-> 💡 **AI Fluency Note for Previewers:** While this video highlights the backend engineering of an automated triage pipeline, my ultimate goal as an AI Community Coordinator is to translate these exact types of complex technical efficiencies into accessible, everyday use cases for non-technical business units, building trust and fluency in these tools to force-multiply existing workflows.
+> 💡 **AI Fluency Note for Previewers:** While this video highlights the backend engineering of an automated triage pipeline, my ultimate goal as a community coordinator is to translate these exact types of complex technical efficiencies into accessible, everyday use cases for non-technical business units, building trust and fluency in these tools to force-multiply existing workflows.
