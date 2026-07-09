@@ -45,11 +45,10 @@ To maintain swift response times without requiring operators to endlessly monito
 * **Automated Escalation Triggers:** When the backend automation detects an operational anomaly or an item requiring human judgment, it immediately pushes a structured webhook payload into our private team Discord and internal chat channels.
 * **Targeted Operations Routing:** The automated alert tags operators, shows various queue-related alerts, and includes a link to the incident. This instantly bridges the gap between our automated backend pipelines and the human leadership layer.
 
-#### Discord Hook Example:
-Below is a live production look at the automated webhook notification pushed directly to the moderator team's internal Discord desk, tracking metrics across a mega-scale community of 8.2M+ members.
+<img width="617" height="552" alt="image" src="https://github.com/user-attachments/assets/a4210460-ff13-4612-8c26-b640eb147c1c" />
+<img width="617" height="452" alt="image" src="https://github.com/user-attachments/assets/8d3c535f-7f98-4c36-a272-0d24178a8ed6" />
 
-<img width="619" height="831" alt="image" src="https://github.com/user-attachments/assets/a4210460-ff13-4612-8c26-b640eb147c1c" />
-<img width="617" height="552" alt="image" src="https://github.com/user-attachments/assets/8d3c535f-7f98-4c36-a272-0d24178a8ed6" />
+Note: *The above images are live production looks at the automated webhook notification pushed directly to the moderator team's internal Discord desk, tracking metrics across a mega-scale community of 8.2M+ members.*
 
 ### 2. Decentralized Timezones
 * **The Strategy:** Recruiting and onboarding regional community "champions" or moderators across varying timezones (US, EMEA, APAC). 
@@ -59,10 +58,9 @@ Below is a live production look at the automated webhook notification pushed dir
 * **Reducing Friction:** To empower overnight or early-shift moderators to make decisions independently, all unique or precedent-setting scenarios are logged into a centralized internal log. 
 * **Autonomy Support:** If an overnight operator encounters an ambiguous situation, they cross-reference past scenario documentation instead of stalling the decision queue until the seasoned moderators are online.
 
-#### Training Queue/Knowledge Base Example:
-Below is a live look at part of the asynchronous knowledge base always available to operators.
+<img width="617" height="852" alt="image" src="https://github.com/user-attachments/assets/4db60d01-6c6d-43d2-a102-3684d51cc021" />
 
-<img width="1017" height="831" alt="image" src="https://github.com/user-attachments/assets/4db60d01-6c6d-43d2-a102-3684d51cc021" />
+Note: *The dashboard view above is part of a centralized, asynchronous knowledge hub that enables globally distributed moderators to access operational guidance, documentation, and decision support at any time without requiring senior availability.*
 
 ---
 
@@ -83,7 +81,9 @@ The long-term goal of any community program is to minimize the central coordinat
 * **Identify Community Champions:** Teams are trained to look for regular members who frequently leave high-quality, helpful, or highly collaborative comments on other peers' posts.
 * **Invitation Protocol:** When a repeating constructive pattern is spotted, a community ambassador/moderator reaches out directly to express appreciation and offer formal support. This process creates a natural recruitment pipeline for future ambassadors and formal moderators.
 
-<img width="1237" height="739" alt="image" src="https://github.com/user-attachments/assets/4682b37b-5805-4db2-a68e-0d3502a109ee" />
+<img width="717" height="852" alt="image" src="https://github.com/user-attachments/assets/4682b37b-5805-4db2-a68e-0d3502a109ee" />
+
+Note: *The dashboard view above demonstrates a proactive community championing framework, enabling operators to identify trusted, high-impact community members through consistent participation, constructive engagement, and demonstrated leadership.*
 
 ---
 
