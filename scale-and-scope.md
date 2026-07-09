@@ -21,7 +21,7 @@ My operational footprint spans 10M+ aggregate participants across diverse digita
 <img width="1076" height="383" alt="image" src="https://github.com/user-attachments/assets/b549aceb-1186-4fa9-91b3-9ba86f571014" /><br><br>
 *   **Fashion & Lifestyle Community**: A visually and interest-driven environment centered on aesthetic and industry trends, requiring structured peer engagement.<br><br>
 <img width="1081" height="374" alt="image" src="https://github.com/user-attachments/assets/8b2cee22-6cf5-4aec-b454-778c9c095c9a" /><br><br>
-*   **Life-Simulation Game Hub**: A niche company-supported community dedicated to a specific gaming title, involving the management of active discussion and community building.<br><br>
+*   **Life-Simulation Game Hub**: A niche company-supported community dedicated to a specific gaming title, involving the management of active discussion and community building. Involves official, company sponsored events and real-money prizes.<br><br>
 <img width="1064" height="362" alt="image" src="https://github.com/user-attachments/assets/2f6ec103-069f-4b33-9877-1a966867dfbd" /><br><br>
 *   **Entertainment & Dog Lovers**: A broad-topic community centered on shared love for dogs, requiring scalable moderation of repetitive content and bot spam.<br><br>
 <img width="1062" height="349" alt="image" src="https://github.com/user-attachments/assets/02ea0ea0-345a-4dd6-93da-de2355900efd" /><br><br>
