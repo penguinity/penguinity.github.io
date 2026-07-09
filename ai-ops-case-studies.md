@@ -1,4 +1,4 @@
-# Portfolio Feature: Operational Case Studies & Automated Content Curation
+# Portfolio: Operational Case Studies & Automated Content Curation
 
 **Target Alignment:** Communities of Practice (CoP) Operations, Multi-Channel Programming, and Data-Driven Adoption Outcomes
 
