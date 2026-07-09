@@ -60,3 +60,12 @@ Below is a look at the front-end user experience where the pipeline programmatic
 * **The Challenge:** Managing sensitive, high-risk community spaces requires balancing strict regulatory/safety compliance with open public participation.
 * **The Solution:** While acting as the primary operator for specialized, high-sensitivity resource communities involving cancer support and education, I established formal collaborations with external subject matter experts (including board-certified dermatologists) to design and vet evidence-based outreach and trusted community feedback.
 * **The Impact:** This highlights an ability to build trust and navigate strict governance boundaries essential for independent financial, healthcare, and insurance entities. It proves I do not operate in an technical silo; I know how to align community operations directly with professional compliance and cross-functional stakeholders.
+
+---
+
+### Case Study F: Evidence-Based Triage & Data-Driven Governance
+* **The Challenge:** High-sensitivity, high-risk communities require an extreme balance between protecting users from medical misinformation and allowing open, supportive discourse. Standard automated rules often lack the nuance to distinguish between a "medical advice request" and a "personal support narrative," leading to high false-positive rates that disrupt community trust.
+* **The Solution:** I architected a proprietary database to record and categorize all moderator-removed content within a cancer support community. This repository serves as a closed-loop audit trail, capturing the context of why specific discussions were suppressed, rather than just the action of removal.
+* **The Impact:** This database acts as a critical training feedback loop. By systematically analyzing removal patterns, I was able to iteratively refine moderation logic, drastically reducing "false positive" removals and ensuring that community members receive support rather than automated rejection. This project demonstrates my ability to combine AI-assisted workflows with professional-grade documentation and rigorous governance to improve operational efficiency, while keeping human safety and experience at the center of all decision-making.
+
+---
