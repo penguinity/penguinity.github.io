@@ -40,7 +40,7 @@ Below is a look at the front-end user experience where the pipeline programmatic
 * **The Solution:** I engineered a multi-layered AI triage protocol. The automated pipeline executes a deterministic check to immediately suppress exact content duplicates and repetitive spam. However, if a thread contains nuanced discussion or breaking industry news that borders on a restricted topic, the system flags it for semantic evaluation rather than blind removal. 
 * **The Impact:** This balances continuous automated coverage with intelligent discretion. By letting AI autonomously clear out the noise of 90% of repetitive content, human operators are spared from exhausting, low-value moderation cycles. This ensures the community feed remains clean and dynamically updated 24/7, while preserving human intervention strictly for edge cases that require real judgment.<br><br>
 
-<img width="1250" height="606" alt="image" src="https://github.com/user-attachments/assets/fe693a70-50ac-4a1d-9d10-788154560aee" />
+<img width="840" height="606" alt="image" src="https://github.com/user-attachments/assets/fe693a70-50ac-4a1d-9d10-788154560aee" />
 <br><br>
 
 Note: *The screenshot above captures part of the automated pipeline in action. The bot-icon indicators (right) demonstrate that the community triage system is autonomously identifying and suppressing low-value noise in real-time, effectively shielding the community without requiring manual human oversight. In this specific event, the removals were for new accounts likely to be future disruptive, headless agents that were flagged for their account creation date (age <5 days).*<br><br>
@@ -58,6 +58,12 @@ Note: *The screenshot above captures part of the automated pipeline in action. T
 * **The Challenge:** Over-filtering or poorly tuned automation rules create "false positives," which inadvertently suppress legitimate user engagement and spike manual override tickets.
 * **The Solution:** I conduct root-cause and workflow analyses on recurring queue friction points. Using these trends, I completely overhauled complex configurations and moderation rules for massive community populations of up to 8M+ members.
 * **The Impact:** By iteratively auditing system logic and refining regex thresholds, I significantly reduced manual review workloads while simultaneously improving rule precision and operational consistency for the communities and their human moderation teams. Auditing and optimization of enterprise platforms are an incredible source of information and training data for both external, and proprietary LLMs.
+  <br><br>
+<img width="885" height="750" alt="image" src="https://github.com/user-attachments/assets/c93a7449-f64e-4363-b004-4a60091cbfee" />
+<br><br>
+
+Note: *To eliminate ambiguity and ensure consistent enforcement across 8M+ members, I revised various parts of the hard-coded ruleset. The snippet above illustrates a tiered filtering strategy that balances automated spam protection with user education. By codifying account-age and karma thresholds, the system provides immediate, transparent feedback to new users, drastically reducing the volume of 'Why was my post removed?' tickets and freeing human operators for high-value moderation tasks.*
+<br><br>
 
 ---
 
@@ -71,6 +77,10 @@ Note: *The screenshot above captures part of the automated pipeline in action. T
 ### Case Study F: Evidence-Based Triage & Data-Driven Governance
 * **The Challenge:** High-sensitivity, high-risk communities also require an extreme balance between protecting users from medical misinformation and allowing open, supportive discourse. Standard automated rules often lack the nuance to distinguish between a "medical advice request" and a "personal support narrative," leading to high false-positive rates that disrupt community trust.
 * **The Solution:** I architected a proprietary database to record and categorize all moderator-removed content within a specialized cancer support community. This repository serves as a closed-loop audit trail for analyses while capturing the context of why specific discussions were suppressed, rather than just the action of removal.
-* **The Impact:** The database acts as a training feedback loop. By systematically analyzing removal patterns, I was able to iteratively refine moderation logic, drastically reducing "false positive" removals and ensuring that community members receive support rather than automated rejection. This project demonstrates the ability to combine AI-assisted workflows with professional-grade documentation and rigorous governance to improve operational efficiency, while keeping human safety and experience at the center of all decision-making.
+* **The Impact:** The database acts as a training feedback loop. By systematically analyzing removal patterns, I was able to iteratively refine moderation logic, drastically reducing "false positive" removals and ensuring that community members receive support rather than automated rejection. This project demonstrates the ability to combine AI-assisted workflows with professional-grade documentation and rigorous governance to improve operational efficiency, while keeping human safety and experience at the center of all decision-making.<br><br>
+
+<img width="495" height="263" alt="image" src="https://github.com/user-attachments/assets/2bf7103b-9db5-46b8-9e94-83718d3ceb52" /><br><br>
+
+Note: *Above is a view of the structured database used to transform raw actions into training data. This enables transition from blind filtering to data-driven refinement, directly reducing the volume of manual appeals by identifying where automated rules require more nuance in a highly sensitive cancer support community.*
 
 ---
