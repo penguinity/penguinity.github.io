@@ -43,12 +43,14 @@ Large communities don't sleep. To ensure continuous coverage across global commu
 ### 1. Real-Time Cross-Platform Alerting (Discord & Internal Chat)
 To maintain swift response times without requiring operators to endlessly monitor queues, the triage pipeline handles notifications programmatically based on defined parameters:
 * **Automated Escalation Triggers:** When the backend automation detects an operational anomaly or an item requiring human judgment, it immediately pushes a structured webhook payload into our private team Discord and internal chat channels.
-* **Targeted Operations Routing:** The automated alert tags operators, shows various queue-related alerts, and includes a link to the incident. This instantly bridges the gap between our automated backend pipelines and the human leadership layer.
+* **Targeted Operations Routing:** The automated alert tags operators, shows various queue-related alerts, and includes a link to the incident. This instantly bridges the gap between our automated backend pipelines and the human leadership layer.<br><br>
 
 <img width="617" height="552" alt="image" src="https://github.com/user-attachments/assets/a4210460-ff13-4612-8c26-b640eb147c1c" />
 <img width="617" height="452" alt="image" src="https://github.com/user-attachments/assets/8d3c535f-7f98-4c36-a272-0d24178a8ed6" />
 
-Note: *The above images are live production looks at the automated webhook notification pushed directly to the moderator team's internal Discord desk, tracking metrics across a mega-scale community of 8.2M+ members.*
+<br><br>
+
+Note: *The above images are live production looks at the automated webhook notification pushed directly to the moderator team's internal Discord desk, tracking metrics across a mega-scale community of 8.2M+ members.*<br><br>
 
 ### 2. Decentralized Timezones
 * **The Strategy:** Recruiting and onboarding regional community "champions" or moderators across varying timezones (US, EMEA, APAC). 
@@ -56,11 +58,13 @@ Note: *The above images are live production looks at the automated webhook notif
 
 ### 3. The Asynchronous Knowledge Base
 * **Reducing Friction:** To empower overnight or early-shift moderators to make decisions independently, all unique or precedent-setting scenarios are logged into a centralized internal log. 
-* **Autonomy Support:** If an overnight operator encounters an ambiguous situation, they cross-reference past scenario documentation instead of stalling the decision queue until the seasoned moderators are online.
+* **Autonomy Support:** If an overnight operator encounters an ambiguous situation, they cross-reference past scenario documentation instead of stalling the decision queue until the seasoned moderators are online.<br><br>
 
 <img width="617" height="852" alt="image" src="https://github.com/user-attachments/assets/4db60d01-6c6d-43d2-a102-3684d51cc021" />
 
-Note: *The dashboard view above is part of a centralized, asynchronous knowledge hub that enables globally distributed moderators to access operational guidance, documentation, and decision support at any time without requiring senior availability.*
+<br><br>
+
+Note: *The dashboard view above is part of a centralized, asynchronous knowledge hub that enables globally distributed moderators to access operational guidance, documentation, and decision support at any time without requiring senior availability.*<br><br>
 
 ---
 
@@ -79,11 +83,14 @@ Coaching a team to interact constructively with the community ensures that membe
 The long-term goal of any community program is to minimize the central coordination burden by turning active users into community advocates.
 
 * **Identify Community Champions:** Teams are trained to look for regular members who frequently leave high-quality, helpful, or highly collaborative comments on other peers' posts.
-* **Invitation Protocol:** When a repeating constructive pattern is spotted, a community ambassador/moderator reaches out directly to express appreciation and offer formal support. This process creates a natural recruitment pipeline for future ambassadors and formal moderators.
+* **Invitation Protocol:** When a repeating constructive pattern is spotted, a community ambassador/moderator reaches out directly to express appreciation and offer formal support. This process creates a natural recruitment pipeline for future ambassadors and formal moderators.<br><br>
 
 <img width="717" height="852" alt="image" src="https://github.com/user-attachments/assets/4682b37b-5805-4db2-a68e-0d3502a109ee" />
 
-Note: *The dashboard view above demonstrates a proactive community championing framework, enabling operators to identify trusted, high-impact community members through consistent participation, constructive engagement, and demonstrated leadership.*
+<br><br>
+
+Note: *The dashboard view above demonstrates a proactive community championing framework, enabling operators to identify trusted, high-impact community members through consistent participation, constructive engagement, and demonstrated leadership.*<br>
+<br>
 
 ---
 
@@ -109,4 +116,5 @@ Moderators and community ambassadors must look out for and correct the following
 
 ## Section 5: Culture & Team Dynamics
 > "Real life always comes first." 
-Building a thriving change-agent network requires psychological safety. We welcome distributed participants with the understanding that availability fluctuates. By providing clear, centralized documentation, asynchronous hand-off channels, and step-by-step onboarding playbooks, we ensure new champions can "hit the ground running" and contribute effectively at their own pace.
+
+Building a thriving change-agent network requires psychological safety. We welcome distributed participants with the understanding that availability fluctuates. By providing clear, centralized documentation, asynchronous hand-off channels, and step-by-step onboarding playbooks, we ensure new & existing community operators can hit the ground running and contribute effectively at their own pace and from day one.
