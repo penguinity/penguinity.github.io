@@ -29,7 +29,9 @@ My operational footprint spans 10M+ aggregate participants across diverse digita
 *   **Parenting & Support Network**: A massive, front-page community-focused space centered on family life, requiring a balance between guidance and peer-to-peer discussion. This also involves intercepting business and media outreach.<br><br>
 <img width="1083" height="366" alt="image" src="https://github.com/user-attachments/assets/9a33b5f0-a166-4e94-b7b6-88e46ef025b2" /><br><br>
 *   **Television Series Community**: An interest-based group focused on specific media content involving a popular show, requiring effective thread management and engagement curation.<br><br>
-<img width="1076" height="394" alt="image" src="https://github.com/user-attachments/assets/56fca5ce-a328-4ac8-ab8b-19df27fa1242" /><br><br> 
+<img width="1076" height="394" alt="image" src="https://github.com/user-attachments/assets/56fca5ce-a328-4ac8-ab8b-19df27fa1242" /><br><br>
+
+Note: *All above Insights are relevant to each respective community as of: July 9th, 2026. To protect privacy, individual community names are shielded, as are user names, images, and any potentially copywright, or identifying information.*
 
 #### Professional Foundations & Strategic Alignment
 My technical and academic background is the foundation for this operational rigor. My work is informed by an integrated understanding of business logic, human behavior, and financial efficiency:
