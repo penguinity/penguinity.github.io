@@ -7,7 +7,7 @@
 > **Portfolio Navigation:**  
 > * **Portfolio Summary:** [Overview of Portfolio](./README.md)
 > * **AI community RPA management:** [AI-Driven Community Governance](./rpa-community-governance.md)  
-> * **Community standards guide:** [Onboarding & Training Playbook](./training-playbook.md)  
+> * **Operational Governance Playbook:** [Onboarding & Training Playbook](./training-playbook.md)  
 > * **AI-Community use cases (Here):** [AI in Communities Case Studies](./ai-ops-case-studies.md)
 > * **Portfolio Summary & Operational Scope** [Community Scope & Closure](./scale-and-scope.md)
 
