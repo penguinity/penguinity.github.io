@@ -1,4 +1,4 @@
-# Portfolio: Community Leadership & Onboarding Playbook
+# Portfolio: Community Leadership & Operational Governance Playbook
 
 Program Structure, Communities of Practice (CoP) Operations, and distributed participant alignment.
 
@@ -7,7 +7,7 @@ Program Structure, Communities of Practice (CoP) Operations, and distributed par
 > **Portfolio Navigation:**  
 > * **Portfolio Summary:** [Overview of Portfolio](./README.md)
 > * **AI community RPA management:** [AI-Driven Community Governance](./rpa-community-governance.md)  
-> * **Community standards guide (Here):** [Onboarding & Training Playbook](./training-playbook.md)  
+> * **Operational Governance Playbook (Here):** [Onboarding & Training Playbook](./training-playbook.md)  
 > * **AI-Community use cases:** [AI in Communities Case Studies](./ai-ops-case-studies.md)
 > * **Portfolio Summary & Operational Scope** [Community Scope & Closure](./scale-and-scope.md)
 
