@@ -13,12 +13,12 @@
 
 Over the last few years, I've designed and implemented AI-assisted operational systems supporting public-facing online communities totaling over 10 million members. The communities I manage encompass many popular topics such as: fashion, gaming, television, paranormal discussion, and cancer support. Weekly engagement ranges from 20,000 interactions in a single community, to over 2 million individual community visits.
 
-This portfolio demonstrates how I've combined personal passion, AI, automation, governance, documentation, and community leadership to improve operational efficiency while keeping humans at the center of decision-making.
-
 AI is not a replacement for human community, interaction, or collaboration; it is simply part of the **infrastructure** that makes human interaction sustainable. When integrated strategically, AI can act as an enterprise force-multiplier by:
 1. **Eliminating the Triage Burden:** Autonomously managing high-volume, low-risk operational queues so humans can focus on trust building, fostering culture and deep problem-solving.
 2. **Distilling Insights from Noise:** Transforming sprawling, multi-channel conversations into concise, value-driven community narratives.
 3. **Protecting Psychological Safety:** Rapidly mitigating risks, policy exceptions, and friction points 24/7 to maintain a trusted environment for peer-to-peer learning and growth.
+
+This portfolio demonstrates how I've combined personal passion, AI, automation, governance, documentation, and community leadership to improve operational efficiency while keeping humans at the center of decision-making.
 
 #### Examples of weekly engagement:
 <img width="339" height="272" alt="image" src="https://github.com/user-attachments/assets/6a04b572-c0e0-497f-8422-d27ed5b54e65" /><img width="339" height="272" alt="image" src="https://github.com/user-attachments/assets/e785ac9a-7e1a-483a-80d0-052cbc757422" /><img width="339" height="272" alt="image" src="https://github.com/user-attachments/assets/abdde6f8-3391-4f0d-82c5-b7cdcf328666" /><img width="339" height="272" alt="image" src="https://github.com/user-attachments/assets/01392963-ad05-404c-9de7-0462ecb584f7" />
