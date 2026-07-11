@@ -2,7 +2,7 @@
 
 | ⚙️ Automation Engineering & Operations | 📊 Data Engineering & Analytics |
 | :--- | :--- |
-| 🚀 [**Explore Operations Portfolio**](opslanding.md) | 📈 [**Explore Data Engineering Portfolio**](https://github.com/penguinity/penguin-engineers) |
+| 🚀 [**Explore Operations Portfolio**](opslanding.md) | 📈 [**Explore Engineering Portfolio**](https://github.com/penguinity/penguin-engineers) |
 | **What You'll See** | **What You'll See** |
 | Production automation systems, AI-assisted operational tooling, asynchronous workflows, configurable rule engines, backend process orchestration, and scalable platform infrastructure designed to eliminate repetitive work. | End-to-end ETL pipelines, relational database design, SQL analytics, healthcare benchmarking, data transformation, reporting automation, and decision-support systems built from large public datasets. |
 | **Engineering Highlights** | **Engineering Highlights** |
