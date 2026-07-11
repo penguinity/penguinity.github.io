@@ -1,6 +1,6 @@
 # Portfolio Contents
 
-| ⚙️ Automation Engineering & Operations | 📊 Data Engineering & Analytics |
+| ⚙️ AI at Scale & Operations | 📊 Data Engineering & Analytics |
 | :--- | :--- |
 | [**Explore Operations Portfolio**](opslanding.md) | [**Explore Engineering Portfolio**](https://penguinity.github.io/penguin-engineers) |
 | **What You'll See** | **What You'll See** |
