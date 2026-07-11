@@ -6,6 +6,7 @@
 > * **Operational Governance Playbook:** [Onboarding & Training Playbook](./training-playbook.md)  
 > * **AI-Community use cases:** [AI in Communities Case Studies](./ai-ops-case-studies.md)
 > * **Portfolio Summary & Operational Scope** [Community Scope & Closure](./scale-and-scope.md)
+> * **Portfolio Home:** [Portfolio Home](README.md)
 
 ---
 
