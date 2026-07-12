@@ -22,7 +22,11 @@ AI is not a replacement for human community, interaction, or collaboration; it i
 This portfolio demonstrates how I've combined personal passion, AI, automation, governance, documentation, and community leadership to improve operational efficiency while keeping humans at the center of decision-making.
 
 #### Examples of weekly engagement:
-<img width="339" height="272" alt="image" src="https://github.com/user-attachments/assets/6a04b572-c0e0-497f-8422-d27ed5b54e65" /><img width="339" height="272" alt="image" src="https://github.com/user-attachments/assets/e785ac9a-7e1a-483a-80d0-052cbc757422" /><img width="339" height="272" alt="image" src="https://github.com/user-attachments/assets/abdde6f8-3391-4f0d-82c5-b7cdcf328666" /><img width="339" height="272" alt="image" src="https://github.com/user-attachments/assets/01392963-ad05-404c-9de7-0462ecb584f7" />
+<img width="350" height="235" alt="image" src="https://github.com/user-attachments/assets/689ea776-e631-4cbd-a5ad-c77866cad91b" />
+<img width="350" height="235" alt="image" src="https://github.com/user-attachments/assets/c9b8c02a-3e40-43cd-b995-e2abbcf3ff04" />
+<img width="350" height="235" alt="image" src="https://github.com/user-attachments/assets/df2af5e7-3007-4a7a-aeff-baa2b2dc1bba" />
+<img width="350" height="235" alt="image" src="https://github.com/user-attachments/assets/12362677-c1ad-4c31-9e94-42bd741e25d4" />
+
 
 Note: *These metrics represent unique weekly community views and new topics shared, not subscriber counts. These images are included to illustrate the scale of community engagement and the operational environment in which these AI and governance systems were implemented.*
 
