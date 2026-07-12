@@ -41,7 +41,7 @@ Below is a look at the front-end user experience where the pipeline programmatic
 * **The Solution:** I implemented a multi-layered AI triage protocol. The automated pipeline executes a deterministic check to immediately suppress exact content duplicates and repetitive spam. However, if a thread contains nuanced discussion or breaking industry news that borders on a restricted topic, the system flags it for semantic evaluation rather than blind removal. 
 * **The Impact:** This balances continuous automated coverage with intelligent discretion. By letting AI autonomously clear out the noise of 90% of repetitive content, human operators are spared from exhausting, low-value moderation cycles. This ensures the community feed remains clean and dynamically updated 24/7, while preserving human intervention strictly for edge cases that require real judgment.<br><br>
 
-<img width="840" height="606" alt="image" src="https://github.com/user-attachments/assets/fe693a70-50ac-4a1d-9d10-788154560aee" />
+<img width="1289" height="673" alt="image" src="https://github.com/user-attachments/assets/d833fb5c-4b5e-43cc-bdb8-7f1ed63a823d" />
 <br><br>
 
 Note: *The screenshot above captures part of the automated pipeline in action. The bot-icon indicators (right) demonstrate that the community triage system is autonomously identifying and suppressing low-value noise in real-time, effectively shielding the community without requiring manual human oversight. In this specific event, the removals were for new accounts likely to be future disruptive, headless agents that were flagged for their account creation date (age <5 days).*<br><br>
@@ -60,10 +60,11 @@ Note: *The screenshot above captures part of the automated pipeline in action. T
 * **The Solution:** I conduct root-cause and workflow analyses on recurring queue friction points. Using these trends, I completely overhauled complex configurations and moderation rules for massive community populations of up to 8M+ members.
 * **The Impact:** By iteratively auditing system logic and refining regex thresholds, I significantly reduced manual review workloads while simultaneously improving rule precision and operational consistency for the communities and their human moderation teams. Auditing and optimization of enterprise platforms are an incredible source of information and training data for both external, and proprietary LLMs.
   <br><br>
-<img width="885" height="750" alt="image" src="https://github.com/user-attachments/assets/c93a7449-f64e-4363-b004-4a60091cbfee" />
+
+<img width="796" height="742" alt="image" src="https://github.com/user-attachments/assets/9f79adea-82a7-4e81-aec5-68a38a3584d3" />
 <br><br>
 
-Note: *To eliminate ambiguity and ensure consistent enforcement across 8M+ members, I revised various parts of the hard-coded ruleset. The snippet above illustrates a tiered filtering strategy that balances automated spam protection with user education. By codifying account-age and karma thresholds, the system provides immediate, transparent feedback to new users, drastically reducing the volume of 'Why was my post removed?' tickets and freeing human operators for high-value moderation tasks.*
+Note: *To eliminate ambiguity and ensure consistent enforcement across 8M+ members, I revised various parts of the hard-coded ruleset. The snippet above illustrates a tiered filtering strategy that balances automated spam protection with user education. By codifying account-age and other thresholds, the system provides immediate, transparent feedback to new users, drastically reducing the volume of 'Why was my post removed?' tickets and freeing human operators for high-value moderation tasks.*
 <br><br>
 
 ---
