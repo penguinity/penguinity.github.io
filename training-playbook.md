@@ -61,7 +61,7 @@ Note: *The above images are live production looks at the automated webhook notif
 * **Reducing Friction:** To empower overnight or early-shift moderators to make decisions independently, all unique or precedent-setting scenarios are logged into a centralized internal log. 
 * **Autonomy Support:** If an overnight operator encounters an ambiguous situation, they cross-reference past scenario documentation instead of stalling the decision queue until the seasoned moderators are online.<br><br>
 
-<img width="617" height="852" alt="image" src="https://github.com/user-attachments/assets/4db60d01-6c6d-43d2-a102-3684d51cc021" />
+<img width="677" height="816" alt="image" src="https://github.com/user-attachments/assets/0685c72f-3de8-4c59-a64b-41f3e4237b28" />
 
 <br><br>
 
@@ -86,7 +86,7 @@ The long-term goal of any community program is to minimize the central coordinat
 * **Identify Community Champions:** Teams are trained to look for regular members who frequently leave high-quality, helpful, or highly collaborative comments on other peers' posts.
 * **Invitation Protocol:** When a repeating constructive pattern is spotted, a community ambassador/moderator reaches out directly to express appreciation and offer formal support. This process creates a natural recruitment pipeline for future ambassadors and formal moderators.<br><br>
 
-<img width="717" height="852" alt="image" src="https://github.com/user-attachments/assets/4682b37b-5805-4db2-a68e-0d3502a109ee" />
+<img width="447" height="774" alt="image" src="https://github.com/user-attachments/assets/5f349d37-c2d0-49ec-bd86-97f0a08230d8" />
 
 <br><br>
 
