@@ -6,9 +6,10 @@ Program Structure, Communities of Practice (CoP) Operations, and distributed par
 
 > **Portfolio Navigation:**  
 > * **Portfolio Summary:** [Overview of Portfolio](opslanding.md)
-> * **AI community RPA management:** [AI-Driven Community Governance](./rpa-community-governance.md)  
-> * **Operational Governance Playbook (Here):** [Onboarding & Training Playbook](./training-playbook.md)  
+> * **AI community RPA management:** [AI-Driven Community Governance](./rpa-community-governance.md)
+> * **Operational Risk Asymmetry:** [Tailored AI Architectures for Different Teams](ai-diff-communities.md)  
 > * **AI-Community use cases:** [AI in Communities Case Studies](./ai-ops-case-studies.md)
+> * ** **Operational Governance Playbook (Here):** [Onboarding & Training Playbook](./training-playbook.md)  
 > * **Portfolio Summary & Operational Scope** [Community Scope & Closure](./scale-and-scope.md)
 
 ---
