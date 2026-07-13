@@ -4,6 +4,16 @@ Operations Governance, Multi-Channel Programming, Scale & Scope, Cross-Functiona
 
 ---
 
+> **Portfolio Navigation:**  
+> * **Portfolio Summary:** [Overview of Portfolio](opslanding.md)
+> * **AI community RPA management:** [AI-Driven Community Governance](./rpa-community-governance.md)
+> * **Operational Risk Asymmetry (Here):** [Tailored AI Architectures for Different Teams](ai-diff-communities.md)  
+> * **AI-Community use cases:** [AI in Communities Case Studies](./ai-ops-case-studies.md)
+> * **Operational Governance Playbook:** [Onboarding & Training Playbook](./training-playbook.md)  
+> * **Portfolio Summary & Operational Scope** [Community Scope & Closure](./scale-and-scope.md)
+
+---
+
 ## 📄 Summary
 
 A core failure in modern enterprise AI adoption is the "blanket mandate" — treating LLMs like a standard SaaS rollout and forcing identical tools onto teams with vastly different risk profiles. Traditional software is deterministic; generative AI is probabilistic. Because a model's inherent constraints (such as hallucinations) do not change, the operational framework must adapt to the specific risk tolerance of the domain.
