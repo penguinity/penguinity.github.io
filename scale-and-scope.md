@@ -18,7 +18,7 @@ My portfolio demonstrates the intersection of **systems engineering, safe AI imp
 ### Community Network Operational Scope
 My operational footprint spans 10M+ aggregate participants across diverse digital ecosystems, necessitating tailored governance strategies for each:
 
-*   **Mass-Scale Gaming Hub**: A high-traffic environment centered on interactive entertainment, requiring rapid intake management for multi-millions of unique viewers. This community features articles from Forbes and outreach from major brands.<br><br>
+*   **Mass-Scale Gaming Hub**: A high-traffic environment centered on interactive entertainment, requiring rapid intake management for multi-millions of unique viewers. This community features articles from major sources and outreach from significant brands.<br><br>
 <img width="1070" height="385" alt="image" src="https://github.com/user-attachments/assets/173b8de0-e47a-4491-a455-0cfe360004f3" /><br><br>
 *   **Medical Support & Resource Community**: A high-sensitivity space focused on specialized health information, necessitating strict governance to maintain supportive discourse and prevent misinformation. This community features collaboration from board-certified doctors.<br><br>
 <img width="1066" height="382" alt="image" src="https://github.com/user-attachments/assets/f2bcf901-0d8b-4dd7-b6e0-639d0aee697e" /><br><br>
