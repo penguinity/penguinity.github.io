@@ -7,6 +7,9 @@
 > * **AI-Community use cases:** [AI in Communities Case Studies](./ai-ops-case-studies.md)
 > * **Operational Governance Playbook:** [Onboarding & Training Playbook](./training-playbook.md)  
 > * **Portfolio Summary & Operational Scope (Here):** [Community Scope & Closure](./scale-and-scope.md)
+>
+
+---
 
 My portfolio demonstrates the intersection of **systems engineering, safe AI implementation into large-scale communities, operations governance, community management, and team development**. My approach treats community infrastructure not as a series of isolated social tasks, but as a complex, data-driven environment that requires rigorous oversight, technical scaling, and psychological safety for all involved.
 
