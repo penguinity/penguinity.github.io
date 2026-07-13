@@ -16,7 +16,7 @@ Over the last few years, I've designed and implemented AI-assisted operational s
 
 AI is not a replacement for human community, interaction, or collaboration; it is simply part of the **infrastructure** that makes human interaction sustainable. When integrated strategically, AI can act as an enterprise force-multiplier by:
 1. **Eliminating the Triage Burden:** Autonomously managing high-volume, low-risk operational queues so humans can focus on trust building, fostering culture and deep problem-solving.
-2. **Distilling Insights from Noise:** Transforming sprawling, multi-channel conversations into concise, value-driven community narratives.
+2. **Distilling Insights from Noise:** Transforming sprawling, multi-channel conversations into concise, value-driven enterprise narratives.
 3. **Protecting Psychological Safety:** Rapidly mitigating risks, policy exceptions, and friction points 24/7 to maintain a trusted environment for peer-to-peer learning and growth.
 
 This portfolio demonstrates how I've combined personal passion, AI, automation, governance, documentation, and community leadership to improve operational efficiency while keeping humans at the center of decision-making.
