@@ -24,7 +24,7 @@ This case study synthesizes empirical data from my management of diverse, distri
 
 ## ❗ The Problem: The Blanket Mandate Fallacy
 
-Corporate evangelism often assumes that "AI adoption" means handing every department a generic chat interface license. In practice, this results in a steep divide: according to MIT data, up to 95% of generic AI pilots fail to show a measurable P&L impact; and 42% of implementation projects are abandoned according to S&L Global data.
+Corporate evangelism often assumes that "AI adoption" means handing every department a generic chat interface license. In practice, this results in a steep divide: according to MIT data, up to 95% of generic AI pilots fail to show a measurable P&L impact; and 42% of implementation projects are abandoned according to S&P Global data.
 
 The operational breakdown occurs because different departments possess fundamentally asymmetric risk profiles. Forcing a blanket AI implementation across an entire organization creates an impossible bottleneck for middle managers, who are tasked with deciding "what stays human" and "what happens when AI makes a mistake" without an intersectional governance framework to protect them.
 
